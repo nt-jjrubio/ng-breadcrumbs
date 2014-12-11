@@ -80,4 +80,4 @@ breadcrumbs.options = { 'Stock Detail': $routeParams.stock + ' Details' };
 
 I hope you find this useful!
 
-«–– [Ian](http://ianvonwalter.com)
+&#9824;&nbsp; [Ian](http://ianvonwalter.com)
