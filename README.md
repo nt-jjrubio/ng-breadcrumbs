@@ -1,3 +1,9 @@
+# Fork of Ian Walter's ng-breadcrumbs
+
+The ng-breadcrumbs was deleted in December 2015. This is a temporary and unofficial fork of Ian Walter's repository to continue our builds, is not maintained and will probably be deleted soon.
+
+All copyrights to code, license etc. belong to Ian Walter. 
+
 # [ng-breadcrumbs](http://ianwalter.github.io/ng-breadcrumbs/)
 *A better AngularJS service to help with breadcrumb-style navigation between views.*
 
